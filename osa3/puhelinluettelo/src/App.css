@@ -1,0 +1,5 @@
+h1 { color: #0000ff; }
+ul { list-style: none; margin: 0; padding: 0; }
+.error, .success { border-radius: 5px; padding: 10px; font-weight: bold; font-size: 24px; color: #fff; }
+.error { border: 5px solid #ff0000; background: #ff0000; }
+.success { border: 5px solid #00bb00; background: #00bb00; }
